@@ -9,9 +9,6 @@ FavMovie is a web application that allows users to browse, search, and save thei
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Browse a list of movies
