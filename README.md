@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/FavMovie.git
+    git clone https://github.com/kirandudala/FavMovie.git
     cd FavMovie
     ```
 
@@ -95,7 +95,7 @@ FavMovie/
 │   ├── models/
 │   ├── routes/
 │   ├── .env
-│   ├── server.js
+│   ├── index.js
 │   ├── package.json
 │   └── ...
 │
