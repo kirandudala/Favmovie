@@ -9,6 +9,7 @@ FavMovie is a web application that allows users to browse, search, and save thei
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
+- [Hosted Link](#hosted-link)
 
 ## Features
 - Browse a list of movies
@@ -98,3 +99,9 @@ FavMovie/
 │
 ├── README.md
 └── ...
+
+```
+## Hosted Link 
+
+Try Website on "https://favmovie-frontend.onrender.com"
+
